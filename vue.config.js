@@ -4,8 +4,3 @@ module.exports = defineConfig({
   outputDir: 'docs',
   publicPath: '/todo-list-app/'
 })
-// module.exports = {
-//   publicPath: process.env.NODE_ENV === 'production'
-//     ? '/<todo-list-app>/'
-//     : '/'
-// }
